@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: Override, Configuration: Debug x64 ------
+1>   Creating library .\Debug\64\Override.lib and object .\Debug\64\Override.exp
+1>Override.vcxproj -> C:\Users\dongnt11\Downloads\Override\.\Debug\plugins\Override\64\win.xpl
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
